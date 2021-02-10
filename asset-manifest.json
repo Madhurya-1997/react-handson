@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-handson/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-handson/static/js/main.41ede7d9.chunk.js",
+    "main.js.map": "/react-handson/static/js/main.41ede7d9.chunk.js.map",
+    "runtime-main.js": "/react-handson/static/js/runtime-main.c3c01f1f.js",
+    "runtime-main.js.map": "/react-handson/static/js/runtime-main.c3c01f1f.js.map",
+    "static/js/2.a887ceab.chunk.js": "/react-handson/static/js/2.a887ceab.chunk.js",
+    "static/js/2.a887ceab.chunk.js.map": "/react-handson/static/js/2.a887ceab.chunk.js.map",
+    "static/js/3.f4ed397f.chunk.js": "/react-handson/static/js/3.f4ed397f.chunk.js",
+    "static/js/3.f4ed397f.chunk.js.map": "/react-handson/static/js/3.f4ed397f.chunk.js.map",
+    "index.html": "/react-handson/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-handson/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a887ceab.chunk.js.LICENSE.txt": "/react-handson/static/js/2.a887ceab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3c01f1f.js",
+    "static/js/2.a887ceab.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.41ede7d9.chunk.js"
+  ]
+}
